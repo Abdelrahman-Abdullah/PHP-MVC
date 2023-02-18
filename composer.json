@@ -1,0 +1,17 @@
+{
+    "name": "vendor/abod",
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "authors": [
+        {
+            "name": "abdelrahman",
+            "email": "abdelra7manabdullah@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    }
+}
